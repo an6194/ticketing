@@ -1,0 +1,11 @@
+{
+  "name": "ticketing",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  }
+}
